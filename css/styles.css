@@ -2547,18 +2547,18 @@ fieldset:disabled a.btn {
 
 .btn-warning {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #b94756;
+  border-color: #b94756;
 }
 .btn-warning:hover {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
+  background-color: #5b7e30;
+  border-color: #5b7e30;
 }
 .btn-warning:focus, .btn-warning.focus {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
+  background-color: #b94756;
+  border-color: #b94756;
   box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
 }
 .btn-warning.disabled, .btn-warning:disabled {
@@ -9760,7 +9760,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #ffffff !important;
 }
 
 .text-primary {
@@ -9976,7 +9976,7 @@ p {
 
 .page-section {
   padding: 6rem 0;
-  background-color: #785736;
+  background-color: #270c00;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -10168,7 +10168,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(254, 209, 54, 0.9);
+  background: #5b7e30;
   align-items: center;
   justify-content: center;
   opacity: 0;
