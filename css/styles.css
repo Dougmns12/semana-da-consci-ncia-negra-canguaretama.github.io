@@ -541,7 +541,6 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
@@ -9993,7 +9992,27 @@ p {
 
 @media (min-width: 768px) {
   section {
-    padding: 9rem 0;
+    padding: 1px;
+  }
+}
+.page-section-prog {
+  padding: 2rem 0;
+  background-color: #270c00;
+}
+.page-section-prog h2.section-heading {
+  font-size: 0rem;
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
+.page-section-prog h3.section-subheading {
+  font-size: 1rem;
+  font-style: italic;
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+@media (min-width: 768px) {
+  section {
+    padding: 1px;
   }
 }
 ::-moz-selection {
