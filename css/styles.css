@@ -30,6 +30,14 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+#teste{
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+  background-image: url("../img/icone1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 *,
 *::before,
 *::after {
@@ -10425,8 +10433,8 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .team-member img {
-  width: 14rem;
-  height: 14rem;
+  width: 7rem;
+  height: 7rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
 }
 .team-member h4 {
